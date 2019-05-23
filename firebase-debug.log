@@ -1,0 +1,11 @@
+[debug] [2019-05-16T04:47:06.122Z] ----------------------------------------------------------------------
+[debug] [2019-05-16T04:47:06.125Z] Command:       /usr/local/bin/node /usr/local/bin/firebase functions:log
+[debug] [2019-05-16T04:47:06.125Z] CLI Version:   6.9.0
+[debug] [2019-05-16T04:47:06.125Z] Platform:      linux
+[debug] [2019-05-16T04:47:06.125Z] Node Version:  v10.15.3
+[debug] [2019-05-16T04:47:06.125Z] Time:          Wed May 15 2019 23:47:06 GMT-0500 (Central Daylight Time)
+[debug] [2019-05-16T04:47:06.125Z] ----------------------------------------------------------------------
+[debug] 
+[error] 
+[error] Error: No project active. Run with --project <projectId> or define an alias by
+running firebase use --add
